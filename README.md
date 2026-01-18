@@ -23,7 +23,7 @@ I work @ [Capital One](https://www.capitalone.com/cars) where I spend most of my
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2026 - To: 17 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
 Java                               █████████▒░░░░░░░░░░░░░░░   33.33 %
 DSA                                █████████░░░░░░░░░░░░░░░░   33.33 %
