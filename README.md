@@ -2,7 +2,7 @@
 
 More info and contact: https://www.karteek.io 
 
-(Currently building, functional build - https://kgole.github.io/new-personal-website/) 
+(Current functional build - https://kgole.github.io/new-personal-website/) 
 
 ### Technologies
 
