@@ -1,6 +1,6 @@
 ## 👋 Hi I'm Karteek
 
-More info and contact: https://www.karteek.io
+More info and contact: https://www.karteek.io (Currently building, functional build - https://kgole.github.io/new-personal-website/) 
 
 ### Technologies
 
@@ -18,10 +18,11 @@ More info and contact: https://www.karteek.io
 
 ### This week I have been doing:
 
+
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2026 - To: 25 January 2026
+From: 08 February 2026 - To: 15 February 2026
 
 Java                               █████████▒░░░░░░░░░░░░░░░   33.33 %
 DSA                                █████████░░░░░░░░░░░░░░░░   33.33 %
