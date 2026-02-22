@@ -1,8 +1,6 @@
 ## 👋 Hi I'm Karteek
 
-More info and contact: https://www.karteek.io 
-
-(Current functional build - https://kgole.github.io/new-personal-website/) 
+More info and contact: https://www.karteek.io (Still under construction)
 
 ### Technologies
 
