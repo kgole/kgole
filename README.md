@@ -24,7 +24,7 @@ More info and contact: https://www.karteek.io
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2026 - To: 15 February 2026
+From: 22 February 2026 - To: 01 March 2026
 
 Java                               █████████▒░░░░░░░░░░░░░░░   33.33 %
 DSA                                █████████░░░░░░░░░░░░░░░░   33.33 %
